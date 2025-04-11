@@ -1,0 +1,200 @@
+P1001 Admitted St. John's Hospital 30
+P1002 Released City Medical Center 45
+P1003 Admitted Riverside Hospital 20
+P1004 Released Green Valley Clinic 60
+P1005 Released Lakeside Medical Center 15
+P1006 Admitted St. John's Hospital 40
+P1007 Released Westside Care Facility 25
+P1008 Admitted City Medical Center 50
+P1009 Released Riverside Hospital 35
+P1010 Admitted Green Valley Clinic 55
+P1011 Released Lakeside Medical Center 28
+P1012 Admitted St. John's Hospital 42
+P1013 Released City Medical Center 17
+P1014 Admitted Riverside Hospital 65
+P1015 Released Green Valley Clinic 22
+P1016 Admitted Lakeside Medical Center 38
+P1017 Released Westside Care Facility 47
+P1018 Admitted St. John's Hospital 19
+P1019 Released City Medical Center 53
+P1020 Admitted Riverside Hospital 31
+P1021 Released Green Valley Clinic 44
+P1022 Admitted Lakeside Medical Center 26
+P1023 Released Westside Care Facility 59
+P1024 Admitted St. John's Hospital 14
+P1025 Released City Medical Center 33
+P1026 Admitted Riverside Hospital 48
+P1027 Released Green Valley Clinic 21
+P1028 Admitted Lakeside Medical Center 57
+P1029 Released Westside Care Facility 36
+P1030 Admitted St. John's Hospital 27
+P1031 Released City Medical Center 41
+P1032 Admitted Riverside Hospital 52
+P1033 Released Green Valley Clinic 18
+P1034 Admitted Lakeside Medical Center 63
+P1035 Released Westside Care Facility 29
+P1036 Admitted St. John's Hospital 46
+P1037 Released City Medical Center 34
+P1038 Admitted Riverside Hospital 24
+P1039 Released Green Valley Clinic 51
+P1040 Admitted Lakeside Medical Center 37
+P1041 Released Westside Care Facility 64
+P1042 Admitted St. John's Hospital 16
+P1043 Released City Medical Center 43
+P1044 Admitted Riverside Hospital 58
+P1045 Released Green Valley Clinic 32
+P1046 Admitted Lakeside Medical Center 49
+P1047 Released Westside Care Facility 23
+P1048 Admitted St. John's Hospital 66
+P1049 Released City Medical Center 39
+P1050 Admitted Riverside Hospital 54
+P1051 Released Green Valley Clinic 20
+P1052 Admitted Lakeside Medical Center 45
+P1053 Released Westside Care Facility 30
+P1054 Admitted St. John's Hospital 25
+P1055 Released City Medical Center 60
+P1056 Admitted Riverside Hospital 15
+P1057 Released Green Valley Clinic 40
+P1058 Admitted Lakeside Medical Center 50
+P1059 Released Westside Care Facility 35
+P1060 Admitted St. John's Hospital 55
+P1061 Released City Medical Center 28
+P1062 Admitted Riverside Hospital 42
+P1063 Released Green Valley Clinic 17
+P1064 Admitted Lakeside Medical Center 65
+P1065 Released Westside Care Facility 22
+P1066 Admitted St. John's Hospital 38
+P1067 Released City Medical Center 47
+P1068 Admitted Riverside Hospital 19
+P1069 Released Green Valley Clinic 53
+P1070 Admitted Lakeside Medical Center 31
+P1071 Released Westside Care Facility 44
+P1072 Admitted St. John's Hospital 26
+P1073 Released City Medical Center 59
+P1074 Admitted Riverside Hospital 14
+P1075 Released Green Valley Clinic 33
+P1076 Admitted Lakeside Medical Center 48
+P1077 Released Westside Care Facility 21
+P1078 Admitted St. John's Hospital 57
+P1079 Released City Medical Center 36
+P1080 Admitted Riverside Hospital 27
+P1081 Released Green Valley Clinic 41
+P1082 Admitted Lakeside Medical Center 52
+P1083 Released Westside Care Facility 18
+P1084 Admitted St. John's Hospital 63
+P1085 Released City Medical Center 29
+P1086 Admitted Riverside Hospital 46
+P1087 Released Green Valley Clinic 34
+P1088 Admitted Lakeside Medical Center 24
+P1089 Released Westside Care Facility 51
+P1090 Admitted St. John's Hospital 37
+P1091 Released City Medical Center 64
+P1092 Admitted Riverside Hospital 16
+P1093 Released Green Valley Clinic 43
+P1094 Admitted Lakeside Medical Center 58
+P1095 Released Westside Care Facility 32
+P1096 Admitted St. John's Hospital 49
+P1097 Released City Medical Center 23
+P1098 Admitted Riverside Hospital 66
+P1099 Released Green Valley Clinic 39
+P1100 Admitted Lakeside Medical Center 54
+P1101 Released Westside Care Facility 20
+P1102 Admitted St. John's Hospital 45
+P1103 Released City Medical Center 30
+P1104 Admitted Riverside Hospital 25
+P1105 Released Green Valley Clinic 60
+P1106 Admitted Lakeside Medical Center 15
+P1107 Released Westside Care Facility 40
+P1108 Admitted St. John's Hospital 50
+P1109 Released City Medical Center 35
+P1110 Admitted Riverside Hospital 55
+P1111 Released Green Valley Clinic 28
+P1112 Admitted Lakeside Medical Center 42
+P1113 Released Westside Care Facility 17
+P1114 Admitted St. John's Hospital 65
+P1115 Released City Medical Center 22
+P1116 Admitted Riverside Hospital 38
+P1117 Released Green Valley Clinic 47
+P1118 Admitted Lakeside Medical Center 19
+P1119 Released Westside Care Facility 53
+P1120 Admitted St. John's Hospital 31
+P1121 Released City Medical Center 44
+P1122 Admitted Riverside Hospital 26
+P1123 Released Green Valley Clinic 59
+P1124 Admitted Lakeside Medical Center 14
+P1125 Released Westside Care Facility 33
+P1126 Admitted St. John's Hospital 48
+P1127 Released City Medical Center 21
+P1128 Admitted Riverside Hospital 57
+P1129 Released Green Valley Clinic 36
+P1130 Admitted Lakeside Medical Center 27
+P1131 Released Westside Care Facility 41
+P1132 Admitted St. John's Hospital 52
+P1133 Released City Medical Center 18
+P1134 Admitted Riverside Hospital 63
+P1135 Released Green Valley Clinic 29
+P1136 Admitted Lakeside Medical Center 46
+P1137 Released Westside Care Facility 34
+P1138 Admitted St. John's Hospital 24
+P1139 Released City Medical Center 51
+P1140 Admitted Riverside Hospital 37
+P1141 Released Green Valley Clinic 64
+P1142 Admitted Lakeside Medical Center 16
+P1143 Released Westside Care Facility 43
+P1144 Admitted St. John's Hospital 58
+P1145 Released City Medical Center 32
+P1146 Admitted Riverside Hospital 49
+P1147 Released Green Valley Clinic 23
+P1148 Admitted Lakeside Medical Center 66
+P1149 Released Westside Care Facility 39
+P1150 Admitted St. John's Hospital 54
+P1151 Released City Medical Center 20
+P1152 Admitted Riverside Hospital 45
+P1153 Released Green Valley Clinic 30
+P1154 Admitted Lakeside Medical Center 25
+P1155 Released Westside Care Facility 60
+P1156 Admitted St. John's Hospital 15
+P1157 Released City Medical Center 40
+P1158 Admitted Riverside Hospital 50
+P1159 Released Green Valley Clinic 35
+P1160 Admitted Lakeside Medical Center 55
+P1161 Released Westside Care Facility 28
+P1162 Admitted St. John's Hospital 42
+P1163 Released City Medical Center 17
+P1164 Admitted Riverside Hospital 65
+P1165 Released Green Valley Clinic 22
+P1166 Admitted Lakeside Medical Center 38
+P1167 Released Westside Care Facility 47
+P1168 Admitted St. John's Hospital 19
+P1169 Released City Medical Center 53
+P1170 Admitted Riverside Hospital 31
+P1171 Released Green Valley Clinic 44
+P1172 Admitted Lakeside Medical Center 26
+P1173 Released Westside Care Facility 59
+P1174 Admitted St. John's Hospital 14
+P1175 Released City Medical Center 33
+P1176 Admitted Riverside Hospital 48
+P1177 Released Green Valley Clinic 21
+P1178 Admitted Lakeside Medical Center 57
+P1179 Released Westside Care Facility 36
+P1180 Admitted St. John's Hospital 27
+P1181 Released City Medical Center 41
+P1182 Admitted Riverside Hospital 52
+P1183 Released Green Valley Clinic 18
+P1184 Admitted Lakeside Medical Center 63
+P1185 Released Westside Care Facility 29
+P1186 Admitted St. John's Hospital 46
+P1187 Released City Medical Center 34
+P1188 Admitted Riverside Hospital 24
+P1189 Released Green Valley Clinic 51
+P1190 Admitted Lakeside Medical Center 37
+P1191 Released Westside Care Facility 64
+P1192 Admitted St. John's Hospital 16
+P1193 Released City Medical Center 43
+P1194 Admitted Riverside Hospital 58
+P1195 Released Green Valley Clinic 32
+P1196 Admitted Lakeside Medical Center 49
+P1197 Released Westside Care Facility 23
+P1198 Admitted St. John's Hospital 66
+P1199 Released City Medical Center 39
+P1200 Admitted Riverside Hospital 54
