@@ -1,4 +1,5 @@
 
+#!/bin/bash 
 
 # Output explanation:
 # 1. The program calculates the **average wait time** for each hospital by dividing the total wait time by the number of patients served.
