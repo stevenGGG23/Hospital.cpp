@@ -2,7 +2,7 @@
 
 This Bash script processes patient data from a healthcare environment. It reads a dataset of patient records, calculates the **average wait time** for each hospital, **counts how many patients** each hospital has served, and **ranks hospitals** from the shortest to longest average wait time.
 
-## 📋 What It Does
+## What It Does
 
 - Extracts hospital names and wait times from a structured dataset
 - Calculates the average wait time per hospital
@@ -10,13 +10,13 @@ This Bash script processes patient data from a healthcare environment. It reads 
 - Ranks hospitals in ascending order of average wait time
 - Displays a formatted report with all results
 
-## 💡 Why This Is Useful
+## Why This Is Useful
 
 - **Informed Decision-Making**: Hospital administrators can use this data to identify efficient hospitals and address bottlenecks.
 - **Resource Allocation**: Knowing which hospitals are overburdened helps optimize staffing and funding.
 - **Performance Benchmarking**: Enables comparison between hospitals to improve patient care and operational efficiency.
 
-## 📄 Input Format
+## Input Format
 
 The script expects an input file where each line contains a patient record in the following format:
 
@@ -38,7 +38,7 @@ P1007 Admitted Riverside Hospital 35
 P1008 Released St. John's Hospital 40
 ```
 
-## 📤 Example Output
+## Example Output
 
 ```
 Hospital Name                  Avg Wait Time (min)   Number of Patients
@@ -51,7 +51,7 @@ Green Valley Clinic            57.50                2
 ------------------------------------------------------------
 ```
 
-## 🛠 How to Run
+## How to Run
 
 1. Make the script executable:
 ```bash
@@ -64,13 +64,13 @@ chmod +x hospital_wait_analysis.sh
 ```
 Replace `patient_data.txt` with the path to your actual input file.
 
-## 🧾 Notes
+## Notes
 
 - Ensure each record ends with the wait time in minutes.
 - The script ignores patient status and ID; it only uses the hospital name and wait time.
 - Works with standard Bash; no additional dependencies are required.
 
-## 📎 Use Cases
+## Use Cases
 
 - Healthcare performance analysis
 - Load balancing across hospitals
